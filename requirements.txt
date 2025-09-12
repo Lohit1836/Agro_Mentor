@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+matplotlib
+warnings
+os
+plotly
+pickle
+scikit-learn
+streamlit
+pandas
+numpy
+Pillow
+requests
+scikit-learn
+langchain-community
+ollama
